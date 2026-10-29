@@ -1,0 +1,15 @@
+{
+  "name": "Ur Fucked",
+  "short_name": "Ur Fucked",
+  "description": "Party games to decide who is fucked.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#14101f",
+  "theme_color": "#14101f",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
